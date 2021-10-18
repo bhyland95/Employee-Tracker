@@ -14,10 +14,15 @@
   - [Questions](#questions)
 
   ## Installation
-  Run NPM Install. Use MySQL to load in the database, and load in the tables. This is found in the DB folder.
+  Run NPM Install. Use MySQL to load in the database, and load in the tables.
+  Tables are as follows:
+  ![image](https://user-images.githubusercontent.com/84405590/137671471-38d4d33a-2591-4376-ab9e-56a49f9e391f.png)
+
 
   ## Usage
-  Follow the command line prompts after running the application
+  Follow the command line prompts after running the application:
+  VIDEO WALKTHROUGH:
+  https://drive.google.com/file/d/1My4qR02ngLSkZBhGhy9r98CgkKKUm_hv/view
 
   ## License
   This application is covered by the MIT license. 
